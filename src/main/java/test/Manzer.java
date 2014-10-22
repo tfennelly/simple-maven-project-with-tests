@@ -6,6 +6,7 @@ public class Manzer {
     	System.out.println("Hi world");
     	System.out.println("Doing okay?");
     	System.out.println("Doing great thanks!!");
+        System.out.println("Live from Palo Alto!!");
     }
 
 }
