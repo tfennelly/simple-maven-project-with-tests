@@ -1,9 +1,9 @@
 pipeline {
   agent any
   stages {
-    stage('build') {
+    stage('') {
       steps {
-        sleep 4
+        withMaven()
       }
     }
   }
