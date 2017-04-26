@@ -7,6 +7,8 @@ public class Manzer {
     	System.out.println("Doing okay?");
     	System.out.println("Doing great thanks!!");
         System.out.println("Live from Palo Alto!!");
+
+        System.out.println("A");
     }
 
 }
