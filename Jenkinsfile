@@ -1,9 +1,14 @@
 pipeline {
   agent any
   stages {
-    stage('') {
+    stage('build') {
       steps {
-        withMaven()
+        withMaven() {
+            sh """
+            export JENKINS_MAVEN_AGENT_DISABLED=true
+            mvn clean install
+            """
+        }
       }
     }
   }
