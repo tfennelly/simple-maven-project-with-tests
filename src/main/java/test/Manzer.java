@@ -23,6 +23,7 @@ public class Manzer {
         System.out.println("M");
 
         System.out.println("X-b1");
+        System.out.println("X-b2");
     }
 
 }
