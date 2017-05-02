@@ -10,7 +10,8 @@ public class Manzer {
 
         System.out.println("A");
         System.out.println("B");
-        breakme
+        System.out.println("C");
+        // breakme
     }
 
 }
