@@ -25,6 +25,7 @@ public class Manzer {
         System.out.println("O");
         System.out.println("P");
         System.out.println("Q");
+        System.out.println("R");
     }
 
 }
