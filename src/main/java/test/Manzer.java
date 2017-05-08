@@ -9,6 +9,7 @@ public class Manzer {
         System.out.println("Live from Palo Alto!!");
 
         System.out.println("A");
+        System.out.println("B");
         //breakme
     }
 
