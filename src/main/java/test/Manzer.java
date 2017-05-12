@@ -12,6 +12,7 @@ public class Manzer {
         System.out.println("B");
         System.out.println("B");
         System.out.println("C");
+        System.out.println("D");
         //breakme
     }
 
